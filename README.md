@@ -14,8 +14,8 @@ This project is a starting point for a Flutter application.
 - [car app: My Firebase App](https://github.com/xurshid20222/CarApp)
 
 
-# Install now
-## size 18(mb)
+# Download now to your mobile phone
+## size 18.35(mb)
 - app => [car_app.zip](https://github.com/xurshid20222/CarApp/files/9445924/car_app.zip)
 
 
