@@ -2,7 +2,7 @@
 
 A new Project for Firebase
 
-#Connected to Firebase
+# Connected to Firebase
 
 https://user-images.githubusercontent.com/97846891/187226721-ef525cca-0cbe-4e98-bf76-aba85d180d1d.mp4
 
