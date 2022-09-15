@@ -16,7 +16,7 @@ This project is a starting point for a Flutter application.
 
 # Download now to your mobile phone
 ## size 18.35(mb)
-- app => [car_app.zip](https://github.com/xurshid20222/CarApp/files/9445924/car_app.zip)
+- app => [car_app.apk](https://github.com/xurshid20222/CarApp/blob/main/car_app.apk)
 
 
 
